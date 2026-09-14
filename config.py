@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","f232b9d0117f9d058d0e5d7fc4a6dd83")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8977657409:AAGffXrVMcwmkdyoebS9gd9yBJ8KlVixLB4")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Sankiromeobot")
-BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
+BOT_TEXT = "Lovekush Bot"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7301992915"))
 # ------------------------------------------------
@@ -30,7 +30,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "Batch_lovekush28_bot" #without @
+ADMIN_BOT_USERNAME = "Sankiromeobot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content/uploads/2022/04/1.jpg")
 
